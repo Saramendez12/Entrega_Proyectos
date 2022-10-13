@@ -55,8 +55,8 @@ P6585S4 = 1 if P6585S4 == 'Si' else 0
 
 st.subheader("""Modelo """)
 
-rf_cls_pickle8= open('rf_clsproyecto9.pickle','rb')
-rf_cls = pkl.load(rf_cls_pickle8)
+rf_cls_pickle9= open('rf_clsproyecto9.pickle','rb')
+rf_cls = pkl.load(rf_cls_pickle9)
 print(rf_cls)
 
 datos= [P6020,P6040,P6070,ESC,P6426,P6800,P6585S1,P6585S2,P6585S4]
