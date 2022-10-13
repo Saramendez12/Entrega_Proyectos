@@ -3,4 +3,4 @@ Repositorio de Clase Machine Learning para economistas. Entrega de Proyectos. Gr
 Entrega Proyecto 6: https://iandam-stream1-app-cuvvfy.streamlitapp.com/
 Entrega Proyecto 7: 
 Entrega Proyecto 8:https://iandam-stream2-app-5ce64p.streamlitapp.com/
-Entrega Proyecto 9:
+Entrega Proyecto 9:https://iandam-stream3-app-0wldjh.streamlitapp.com/
